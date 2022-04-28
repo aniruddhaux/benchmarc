@@ -1,0 +1,1340 @@
+/*
+::-moz-selection {
+	background:rgba(0,0,0,0);
+	}
+::selection { 
+	background:rgba(0,0,0,0);
+	} 	
+*/
+	
+body{ 
+  	margin:0; 
+ 	padding:0; 
+ 	font-family: Roboto;
+	color:#454545;
+	}
+*{margin:0; padding:0; 
+}
+img,a{ border:none; outline:none;}
+a{ text-decoration:none;}
+ul,li{ list-style:none;}
+input, textarea, select{
+	outline:none;
+	}
+h1{ font-size:52px;}
+h2{ font-size:34px;}
+
+p{ 
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 27px;
+    padding: 0 0 10px;
+	font-family:Roboto;
+	}
+
+.alignleft{
+	float:left;
+	margin:0 10px 15px 0;
+	}
+.alignright{
+	float:right;
+	margin:0 0px 15px 10px;
+	}
+.aligncenter{
+	display:block;
+	margin:15px auto;
+	}
+
+.clear:after{
+	display:block;
+	clear:both;
+	content:'';
+	}
+.spacer10{ height:10px;}
+.spacer15{ height:15px;}
+.spacer20{ height:20px;}
+.spacer25{ height:25px;}
+.spacer30{ height:30px;}     
+.spacer40{ height:40px;}
+
+
+.boxSizing{
+	box-sizing:border-box;
+	}
+.wrapper{ 
+	width:1150px;
+	margin:0px auto;
+	position:relative;
+	}
+.wrapper:after{
+	clear:both;
+	display: block; 
+	content:'';
+	}
+/***************************
+	Header css start
+*****************************/
+header{
+	
+	}
+	
+/****  Banner part ***/	
+.top_bar{
+	background:#c6573e url(../images/pattern1.jpg) repeat 0 0;
+	padding:0px 0;
+	}
+.top_bar:after{
+	content:'';
+	clear:both;
+	display:block;
+	}
+.topTel{
+	background: rgba(0, 0, 0, 0) url("../images/call.png") no-repeat scroll 0 center;
+	background-size:15px auto;
+    color: #fff;
+    display: inline-block;
+    float: left;
+    font-family: Roboto;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 33px;
+    padding: 0 0 0 20px;
+	}
+.topTel a{
+	color: #fff;
+	}
+.top_linksBox{
+	float:right;
+	}	
+.top_socials{
+	float:right;
+	}	
+.top_socials li{
+    float: left;
+    height: 33px;
+    margin: 0;
+    text-align: center;
+    width: 33px;
+	transition:all 100ms ease 0s;
+	}
+.top_socials li a{
+    height: 32px;
+    width: 33px;
+	display: block;
+	}
+.top_socials li:hover{
+	background: #90c53e none repeat scroll 0 0;
+	}
+.facebook{
+	background: url(../images/facebook.png)  no-repeat center center;
+	}	
+.twitter{
+	background: url(../images/twitter.png) no-repeat center center;
+	}	
+.instagram{
+	background: url(../images/instagram.png)  no-repeat center center;
+	}	
+.youtube{
+	background: url(../images/youtube.png) no-repeat center center;
+	}	
+	
+		
+	
+	
+	
+/***********************/	
+.logo{
+	float: left;
+    width:197px;
+	}	
+.logo img{
+	height: auto;
+    padding: 0;
+    vertical-align: bottom;
+    width: 100%;
+	}	
+	
+/******************************/		
+.menuBar{
+	padding: 0px 0;
+	}
+
+
+
+/************************
+Banner section css
+**************************/	
+.banner{
+	clear: both;
+    padding: 0 0 0px;
+	}
+.captionHolder {
+    left: 0;
+    position: absolute;
+    right: 0;
+    top: 8%;
+    width: auto;
+	}
+.caption{
+	display: block;
+    float: right;
+    margin: 156px 0 0;
+    padding: 0;
+    width: 457px;
+	}
+.caption h1{
+	color: #313131;
+    font-family: Varela Round;
+    font-size: 50px;
+    font-weight: 600;
+    padding: 0 0 23px;
+    text-align: center;
+    text-transform: uppercase;
+    }
+.caption h1 span{
+	display: block;
+    font-size: 20px;
+    font-weight: 600;
+    padding: 8px 0 0;
+	}
+.caption p{
+	color: #313131;
+    font-size: 17px;
+    font-weight: 400;
+    padding: 0 0 26px;
+    text-align: center;
+    }
+.caption .btn {
+    background: #dce427 none repeat scroll 0 0;
+    border: 2px solid #719419;
+    color: #719419;
+    font-size: 15px;
+    margin: 0 auto;
+	}
+.caption .btn::after {
+    border-color: #719419;
+	}
+.caption .btn:hover{
+    background: #719419 none repeat scroll 0 0;
+	color:#fff;
+	}
+.caption .btn:hover::after {
+    border-color: #fff;
+	}
+
+
+
+
+/*******************************/
+.content{
+    padding: 0 0 0px;
+	}
+.content h3{
+	background-image: url("../images/arrow.png"), url("../images/separator.png");
+    background-position: center 0px, center bottom;
+    background-repeat: no-repeat, no-repeat;
+    color: #7b7b7b;
+    font-family: Varela Round;
+    font-size: 42px;
+    font-weight: 700;
+    margin: 0 0 29px;
+    padding: 13px 0 27px;
+    text-align: center;
+	}
+.content h3 span{
+	font-weight: 700;
+	color: #8bbc3e !important;
+	}	
+/**************************************
+	Welcome section css start
+***************************************/	
+.about_sec{
+	padding:51px 0;
+	border-bottom:3px solid #e4e4e4;
+	background: url(../images/pattern6.jpg) repeat 0 0;
+	}
+.about_sec h3{	
+	}
+.about_sec p{
+	color: #3c3c3c;
+	text-align:center;
+	}
+
+
+/******************************************
+	How do we do it? section css start
+********************************************/
+.how_do_we_do_sec{
+	padding: 45px 0;
+	background: url(../images/bg_pattern.png) repeat-x center bottom;
+	}	
+.how_do_we_do_sec h3{
+	}
+.how_do_we_do_sec p{
+	color: #3c3c3c;
+	text-align:center;
+	}
+.how_do_we_do_sec ul:after{
+	display:block;
+	clear:both;
+	content:'';
+	}
+.how_do_we_do_sec ul {
+    padding-bottom: 10px;
+    padding-top: 31px;
+	}	
+.how_do_we_do_sec li{
+    display: inline-block;
+    float: left;
+	box-sizing:border-box;
+    margin: 0 ;
+    padding: 0 30px;
+    width: 33.33%;
+	}
+.how_do_we_do_sec li:nth-child(4n) {
+    margin-right: 0;
+	}
+.how_do_icon{
+	display: table;
+    height: 146px;
+    margin: 0 auto 30px;
+	}	
+.how_do_we_do_sec li h4{
+	color: #383838;
+    font-family: Varela Round;
+    font-size: 24px;
+    padding: 0 0 10px;
+	text-align:center;
+	}
+.how_do_we_do_sec li h4 a{
+	color: #383838;
+	}	
+.how_do_we_do_sec li p{
+	color: #383838;
+    font-size: 16px;
+	}
+.btn{
+	background:#dce427;
+	border: 2px solid #6b9a20;
+    border-radius: 28px;
+    clear: both;
+    color: #6b9a20;
+    display: table;
+    font-family: Roboto;
+    font-size: 17px;
+    font-weight: 800;
+    line-height: 50px;
+    margin: 0 auto;
+    padding: 0 37px;
+    text-transform: uppercase;
+	position:relative;
+	transition: all 200ms ease 0s;
+	}
+.btn:after{
+	border-left: 2px solid #6b9a20;
+    border-radius: 20px 0 0;
+    border-top: 2px solid #6b9a20;
+    clear: both;
+    content: "";
+    display: block;
+    height: 17px;
+    left: 12px;
+    position: absolute;
+    top: 10px;
+    width: 17px;
+	}
+.btn:hover{
+	background:#6b9a20;
+	color: #fff;
+	}
+.btn:hover:after{
+	border-color:#fff;
+	}
+
+
+
+/**********************************
+	performance_sec css start
+*****************************************/
+.performance_sec {
+	background: rgba(0, 0, 0, 0) url("../images/pattern3.jpg") repeat scroll center 0;
+    padding: 15px 0 0;
+	}
+.performance_sec h3 {
+	color:#fff;
+	margin-bottom: 32px;
+    background-image: url("../images/separator2.png");
+    background-position: center bottom;
+    padding-top: 0;
+    text-align: left;
+	}	
+.performance_sec h3 span {
+	color:#383838 !important;
+	}
+.performance_sec img {
+	float: left;
+    margin: 0 0 0 0px;
+	}
+.per_box{
+	float: right;
+    padding: 66px 0 0;
+	}			
+
+	
+	
+	
+	
+
+/**********************************
+	testimoinial_sec css start
+*****************************************/
+.testimoinial_sec {
+	background:url("../images/testimonial_bg.png") no-repeat scroll 39% bottom, #f7f7f7 url("../images/pattern2.jpg") repeat scroll center 0;
+    padding: 80px 0 70px;
+	}
+.testi_left {
+    float: left;
+    width: 38%;
+	}	
+.testimoinial_sec h3 {
+	background-image: url("../images/separator.png");
+    background-position: left bottom;
+    padding-top: 0;
+    text-align: left;
+	 }		
+.testimoinial_sec p {
+    color: #3c3c3c;
+	}	
+/*.testimoinial_sec .btn {
+	background: #f8c34f none repeat scroll 0 0;
+    border: 2px solid #f8c34f;
+    color: #383838;
+    font-weight: 700;
+    margin: 0;
+	}		
+.testimoinial_sec .btn:after{
+	border-color:#383838;
+	}
+.testimoinial_sec .btn:hover {
+	background: none;
+	border-color:#d8a32f;
+	}*/
+.testimonial_box {
+    background: #444444;
+    border-radius: 34px;
+    box-sizing: border-box;
+    float: right;
+    padding: 0 80px;
+    width: 46%;
+	position:relative;
+	}	
+.testimonial_box:after {
+	background: rgba(0, 0, 0, 0) url("../images/testimonial_icon.png") no-repeat scroll 0 0;
+    content: "";
+    height: 111px;
+    left: -54px;
+    position: absolute;
+    top: -46px;
+    width: 118px;
+    z-index: 99;
+	}
+
+.testiSlider {
+    padding: 26px 20px;
+	}	
+.testimonial ul{}
+.testimonial li{}
+.testiLists li p {
+    color: #fff;
+    font-size: 17px;
+    font-weight: 400;
+    line-height: 25px;
+    padding: 0 0 15px;
+	}
+.testiLists h5 {
+    color: #93c447;
+    font-family: Roboto;
+    font-size: 17px;
+    font-weight: 400;
+    padding: 0 0 3px;
+	}
+.testiLists h6{
+    color: #fff;
+    font-size: 14px;
+    font-weight: 400;
+    padding: 0;
+    text-transform: uppercase;
+	}
+.testi_left .btn {
+    margin: 17px 0 0;
+	}
+.slides.testiLists {
+    margin-bottom: 20px;
+	}
+
+
+
+/************************
+     case_Study_sec  css  start
+*****************************/	
+.case_Study_sec{
+	padding: 38px 0;
+	}
+.case_Study_sec li{
+	box-shadow: 0 0 5px rgba(0, 0, 0, 0.25);
+    /*float: left;*/
+    margin: 7px auto;
+    width: 551px;
+	}
+.case_Study_sec li::after {
+    clear: both;
+    content: "";
+    display: block;
+	}
+.casePop{
+	background: #fff none repeat scroll 0 0;
+    display: none;
+    padding: 25px;
+	}		
+.caseStudyThumb{
+	float:left;
+	width:50%;
+	}
+.caseStudyThumb img{
+	width:100%;
+	height:auto;
+	vertical-align:bottom;
+	}
+.caseStudy_dep {
+    display: table;
+    padding: 27px 18px 18px;
+	}	
+.caseStudy_dep h4{
+	color: #383838;
+    font-family: Varela Round;
+    font-size: 21px;
+    padding: 0 0 13px;
+	}
+.caseStudy_dep p{
+	color: #383838;
+    font-size: 16px;
+	padding:0;
+	}
+.casePop .caseStudyThumb {
+    padding: 0 20px 0 0;
+    width: 290px;
+	}
+.casePop .caseStudy_dep {
+    display: block;
+    padding-top: 0;
+	}
+.casePop .caseStudy_dep h4 {
+    color: #8bbc3e ;
+    font-size: 25px;
+	}
+
+
+
+/************************
+  campaigns_sec part css  start
+*****************************/	
+.campaigns_sec{
+	background: rgba(0, 0, 0, 0) url("../images/bg_pattern.png") repeat-x scroll center bottom;
+    padding: 45px 0;
+	}
+.campaigns_sec p{
+	color: #3c3c3c;
+    font-size: 20px;
+    line-height: 35px;
+    padding: 0 0 33px;
+	}
+.campaigns_sec p strong{
+	text-transform:uppercase;
+	color:#000;
+	font-weight:700;
+	}
+.campaigns_form{
+	margin-top: 30px;
+	}
+.campaigns_form ul {
+    padding-top: 7px;
+	}	
+.campaigns_form li{
+	display: inline-block;
+    float: left;
+    margin: 0 3% 16px 0;
+    width: 31.33%;
+	}
+.campaigns_form li:last-child{
+	margin-right:0;
+	}
+.campaigns_form input[type="text"] {
+    background: linear-gradient(#585858, #585858) no-repeat scroll left bottom / 1px 6px, linear-gradient(#585858, #585858) repeat-x scroll center bottom / 1px 1px, rgba(0, 0, 0, 0) linear-gradient(#585858, #585858) no-repeat scroll right bottom / 1px 6px;
+    border: medium none;
+    box-sizing: border-box;
+    color: #636363;
+    font-family: Roboto;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 46px;
+    padding: 0 13px;
+    width: 100%;
+	}
+.campaigns_form textarea{
+    background: linear-gradient(#585858, #585858) no-repeat scroll left bottom / 1px 6px, linear-gradient(#585858, #585858) repeat-x scroll center bottom / 1px 1px, rgba(0, 0, 0, 0) linear-gradient(#585858, #585858) no-repeat scroll right bottom / 1px 6px;
+    border: medium none;
+    box-sizing: border-box;
+    color: #636363;
+    font-family: Roboto;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 46px;
+    padding: 0 13px;
+    width: 100%;
+	height: 108px;
+    resize: vertical;
+	}
+.campaigns_form input[type="text"]:focus , .campaigns_form textarea:focus{
+    background: linear-gradient(#dce427 , #dce427 ) no-repeat scroll left bottom / 1px 6px, linear-gradient(#dce427 , #dce427 ) repeat-x scroll center bottom / 1px 1px, rgba(0, 0, 0, 0) linear-gradient(#dce427 , #dce427 ) no-repeat scroll right bottom / 1px 6px;
+	}
+::-webkit-input-placeholder { /* Chrome/Opera/Safari */
+    opacity:1;
+}
+::-moz-placeholder { /* Firefox 19+ */
+    opacity:1;
+}
+:-ms-input-placeholder { /* IE 10+ */
+    opacity:1;
+}
+:-moz-placeholder { /* Firefox 18- */
+    opacity:1;
+}
+	
+.campaigns_form input[type="submit"] {
+    cursor: pointer;
+    display: table;
+    font-family: Roboto;
+	}
+/*.campaigns_form .btn {
+    background: #d2644b none repeat scroll 0 0;
+    border: 2px solid #d2644b;
+    color: #fff;
+    font-weight: 500;
+    margin: 30px 0 0;
+	}*/
+.campaigns_form .btnCnt{
+	display: table;
+    margin: 42px auto 25px;
+    position: relative;
+	}
+.campaigns_form .btnCnt:after{
+    border-left: 2px solid #6b9a20;
+    border-radius: 20px 0 0;
+    border-top: 2px solid #6b9a20;
+    clear: both;
+    content: "";
+    display: block;
+    height: 17px;
+    left: 12px;
+    position: absolute;
+    top: 10px;
+    width: 17px;
+	z-index:99;
+	}
+
+/*.campaigns_form  li:hover .btn{
+	background:none;
+	color:#d2644b;
+	}*/
+.campaigns_form  li:hover:after{
+	border-color:#d2644b;
+	}
+
+
+
+
+
+
+/************************
+  footer part css  start
+*****************************/	
+footer {
+	}
+.ft_link_box{
+	background: #252525 url("../images/pattern4.jpg") repeat scroll 0 0;
+    padding: 35px 0;
+	}
+.ftLogo{
+	float:left;
+	}	
+.ftCntBox{
+	float: right;
+    padding-top: 9px;
+	}		
+.ftCntBox span {
+    color: #fff;
+    display: block;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 22px;
+    margin: 0 0 24px;
+    padding: 0 0 1px 45px;
+	}
+.ftCntBox span a{
+    color: #fff;
+	font-weight: 300;
+	}
+.ft_call{
+	background: rgba(0, 0, 0, 0) url("../images/call.png") no-repeat scroll 2px 3px;
+	margin-bottom: 0 !important;
+	}	
+.ft_mail{
+	background: rgba(0, 0, 0, 0) url("../images/mail.png") no-repeat scroll 0 2px;
+	}	
+.ft_bar{
+	background: #3d3d3d none repeat scroll 0 0;
+    padding: 12px 0;
+    text-align: center;
+	}
+.ft_bar span{
+	color: #fff;
+    font-size: 15px;
+    font-weight: 300;
+    padding: 0;
+	}
+.copyright{
+	text-align:center;
+	}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*************************************
+	SEO page css start
+****************************************/
+.innerPgBn{
+	background:#34a5da;
+	position:relative;
+	}
+.innerPgBn:after{
+	content:'';
+	clear:both;
+	display:block;
+	}
+.innerPgBn .caption {
+    float: left;
+    margin: 70px 0 0;
+	width:51%;
+	}
+.innerPgBn img {
+    float: right;
+    height: auto;
+    max-width: 49%;
+    padding: 5px 0 0;
+	}
+.innerPgBn .caption h1 {
+    font-size: 36px;
+    padding-bottom: 15px;
+    text-align: left;
+	}
+.innerPgBn .caption > p {
+    text-align: left;
+	}
+.innerPgBn .caption .btn{
+	margin:0 0 0 0;
+	}
+.breadcum_Nav{
+	}
+.pageTitle{
+	color: #797979;
+    float: left;
+    font-size: 24px;
+    font-weight: 500;
+    padding: 10px 0;
+    text-transform: uppercase;
+	}
+.breadcum{
+	color: #797979;
+    float: right;
+    font-size: 14px;
+    font-weight: 500;
+    padding: 16px 0;
+    text-transform: uppercase;
+	}
+
+
+
+
+/******************************
+	SEO Section css start
+*********************************/
+.seo_sec{
+	background: rgba(0, 0, 0, 0) url("../images/pattern2.jpg") repeat scroll 0 0;
+    border-bottom: 3px solid #e4e4e4;
+    padding: 37px 0 0;
+	}
+.seo_sec img {
+    float: left;
+    margin: 0 40px 0 0;
+	}	
+.seo_sec p{
+	font-weight: 400;
+    padding: 0 0 25px;
+	}
+.seo_dep {
+    padding: 27px 0;
+	}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/********************************
+	Combine Section css start
+*************************************/
+.combine_sec{
+	background:url("../images/bg_pattern.png") no-repeat scroll center top;
+    padding: 45px 0;
+	}
+.combine_sec h3{
+	}
+.combine_lists{
+	text-align:center;
+	}
+.combine_lists li{
+	display: inline-block;
+    float: left;
+    margin: 0 5% 0 0;
+    text-align: center;
+    vertical-align: top;
+    width: 30%;
+	}
+.combine_lists li:nth-child(3n){
+	margin-right:0;
+	}
+.combine_lists li:last-child{
+	margin-right:0;
+	padding-right: 0%;
+	}
+.seo_combine li{
+	background: rgba(0, 0, 0, 0) url("../images/arrw1.png") no-repeat scroll 98% 50%;
+    margin-right: 0;
+    padding-right: 5%;
+	}
+.seo_combine li:last-child{
+	background-image:none;
+	}
+.combine_lists li h4{
+	color: #383838;
+    font-family: Varela Round;
+    font-size: 20px;
+    font-weight: 600;
+    padding: 11px 0 19px;
+	}
+.combine_lists li img{
+	}
+.combine_lists li p{
+	line-height: 24px;
+    text-align: center
+	}
+
+
+
+
+
+
+
+
+
+/********************************
+	Steps to a Better Ranking Section css start
+*************************************/
+.steps_sec{
+	background: rgba(0, 0, 0, 0) url("../images/bg_pattern.png") repeat-x scroll center bottom;
+    padding: 45px 0;
+	}
+.steps::after {
+    clear: both;
+    content: "";
+    display: block;
+	}
+.steps {
+    padding: 20px 0 0;
+	}
+.steps li{
+	float: left;
+    margin: 0 5% 0 0;
+    width: 30%;
+	}
+.steps li:last-child{
+	margin-right:0;
+	}
+.step_thumb{
+	float: left;
+    margin: 0 19px 0 0;
+	}
+.stepBox{
+	display: table;
+	}
+.stepBox h4{
+	color: #383838;
+    font-family: Varela Round;
+    font-size: 20px;
+    font-weight: 600;
+    padding: 11px 0 14px;
+	}
+.stepBox p{
+	}
+
+
+
+
+
+
+/********************************
+	Not Ranking Section css start
+*************************************/
+.seoRanking{}
+.seoRanking img{
+	float:right;
+	}
+.seoRanking .per_box {
+    float: left;
+	}
+.seoRanking h3{
+	background-position:0 bottom;
+	text-align:left;
+	}
+.seoRanking .btn{
+	margin:0 0 0 0;
+	}
+
+
+
+
+
+
+
+
+
+
+/********************************
+	PPC page css start
+*************************************/
+.PPC_lists li {
+    float: none;
+    margin: 0 4.5% 40px 0;
+    min-height: 400px;
+	}
+.btnsBox .btn {
+    display: inline-table;
+	}
+.btnsBox{
+    margin:0 auto;
+	display:table;
+	}
+.freeQt {
+    background: #e51d72 none repeat scroll 0 0;
+    color: #fff;
+    font-weight: 500;
+    margin-left: 20px;
+	}
+.freeQt:after{
+	border-color:#fff;
+	}
+.btnsBox .btn:hover {
+	background: #e51d72 none repeat scroll 0 0;
+    color: #fff;
+	}
+.btnsBox .btn:hover:after {
+	border-color:#fff;
+	}
+.freeQt:hover{
+	background:#fff !important;
+	color: #e51d72 !important;
+	}
+.freeQt:hover:after{
+	border-color:#e51d72 !important;
+	}
+
+
+
+
+
+
+
+
+/******************************************
+	Retargetting page css start
+*******************************************/
+.how_work p{
+	text-align:center;
+	}
+.advantg{
+	padding-top: 26px;
+	}
+.advantg li{
+	background: rgba(0, 0, 0, 0) url("../images/checkBox2.png") no-repeat scroll 0 0;
+    box-sizing: border-box;
+    color: #404040;
+    display: inline-block;
+    float: left;
+    font-size: 24px;
+    font-weight: 500;
+    margin: 0 5% 31px 0;
+    padding: 0 0 3px 50px;
+    vertical-align: top;
+    width: 47.5%;
+	}
+.advantg li:nth-child(2n){
+	margin-right:0;
+	}
+.per_box p{
+	color: #282828;
+    font-size: 22px;
+    font-weight: 500;
+	}
+
+
+.retargetting_doingRt h3{
+	 background-image: url("../images/separator2.png");
+    background-position: 0 bottom;
+    color: #fff;
+    font-size: 51px;
+    margin-bottom: 32px;
+    text-align: left;
+	}
+.retargetting_doingRt h3 span{
+	display: block;
+    font-size: 22px;
+    padding: 8px 0 0;
+	}
+.retargetting_doingRt .btn{
+	margin-left:0;
+	}
+.retargetting_doingRt .per_box {
+    width: 32%;
+	}
+.retargetting_doingRt img{
+    margin-left:0;
+	}
+
+
+
+
+
+/******************************************
+	Targetting page css start
+*******************************************/
+.targetting_process{}
+.targetting_process h5{
+	color: #383838;
+    font-size: 25px;
+    font-weight: 700;
+    padding: 11px 0 14px;
+	text-align:center;
+	}
+.targetting_process p{
+	text-align:center;
+	}
+.targetting_process .steps li {
+    margin-bottom: 60px;
+    width: 47%;
+	}
+.targetting_process .steps li:nth-child(2n){
+	margin-right:0;
+	}
+.targetting_process .steps li h4{
+    text-align:left;
+	padding-top:0;
+	}
+.targetting_process .steps li p{
+    text-align:left;
+	}
+.targetting_process  .steps {
+    padding: 48px 0 0;
+	}
+
+
+
+
+
+
+
+
+
+/**************************************
+	Blog PAge css start
+******************************************/
+.blogPg_sec{
+	background: rgba(0, 0, 0, 0) url("../images/pattern2.jpg") repeat scroll 0 0;
+    border-bottom: 3px solid #e4e4e4;
+    padding: 67px 0;
+	}
+.blogPannel{
+	float: left;
+    margin: 0 20px 0 0;
+    width: 73.7%;
+	}
+.blogPannel .commino_blogs{
+	float:none;
+	width:100%;
+	}
+.commino_blogs{
+	float: left;
+    margin: 0 20px 0 0;
+    width: 69%;
+	}
+.commino_blogs li{
+    margin: 0 0 40px;
+	}
+.blogThumb{
+	float: left;
+    max-width: 45%;
+    padding: 0 40px 10px 0;
+	}	
+.commino_blogs li img{
+	border: 4px solid #d9d9d9;
+    height: auto;
+    max-width: 100%;
+	margin:0 0 0 0;
+	}
+.blogInfoBox{
+	}
+.blogInfoBox h4{
+    color: #34a5da ;
+    font-family: Varela Round;
+    font-size: 30px;
+    font-weight: 700;
+    padding: 0 0 29px;
+	}
+.blogInfoBox h4 a{
+	color: #34a5da;
+	}
+.blogInfoBox span{
+	color: #828080;
+    display: block;
+    font-family: Lato;
+    font-size: 16px;
+    font-style: italic;
+    font-weight: 500;
+    line-height: 26px;
+	}
+.blog_details{
+	padding:0 0 20px 0;
+	}	
+.blogAuthor{
+	padding:0 20px 0 0;
+	}
+.blogInfoBox p{
+	color: #828080;
+    padding: 0 0 6px;
+    text-shadow: 0 0 0 #828080;
+	text-align:justify;
+	}
+.blogeMore{
+	color: #575757;
+    display: block;
+    font-family: Lato;
+    font-size: 18px;
+    font-style: italic;
+    font-weight: 800;
+    margin: 19px 0 0;
+    padding: 0 0 0 29px;
+    position: relative;
+	}
+
+
+
+
+.blogSidePanel{
+	display: table;
+    float: right;
+    width: 23%;
+	}
+.widgetBox{
+	 margin: 0 0 43px;
+	 }
+.widgetBox h3{
+	background: rgba(0, 0, 0, 0) none repeat scroll 0 0;
+    font-family: Varela Round;
+    font-size: 28px;
+    font-weight: 600;
+    margin: 0;
+    padding: 0 0 12px;
+    text-align: left;
+	color:#e51d72;
+	}
+
+
+.archives{}
+.archives ul li{
+	background: rgba(0, 0, 0, 0) url("../images/CFAN-archives.png") no-repeat scroll 6px 9px;
+    padding: 0;
+	}
+.archives ul ul li{
+	border-bottom-color: #d6d6d6;
+	background:none;
+	}
+.archives li a{
+	border-bottom: 1px solid #bababa;
+    color: #515151;
+    display: block;
+    font-size: 20px;
+    font-weight: 700;
+    padding: 9px 0 9px 41px;
+	background: rgba(0, 0, 0, 0) url("../images/checkBox2.png") no-repeat scroll 12px center;
+	background-size:15px auto;
+	}
+.archives li li a{
+	color: #767676;
+    padding-left: 64px;
+	}
+.archives li li a {
+    font-size: 17px;
+    font-weight: 700;
+	background:none;
+	}	
+#accordian h3 {
+    background: url(next.png) no-repeat 0 0 #c3c3c3;
+    line-height: 23px;
+    margin: 0 0 5px;
+    padding: 0 0 0 27px;
+	cursor:pointer;
+}
+#accordian h3:hover{
+	background-color:#eaeaea;
+	}
+
+.activeAccr{
+	background: url("prev.png") no-repeat scroll 0 0 #eaeaea !important;
+	}
+.accr_box {
+    margin: 0;
+    padding: 12px;
+}
+.blogInfoBox .btn {
+    clear: both;
+    float: left;
+    margin: 10px 0 20px;
+	}
+.blogInfoBox:after{
+	content:'';
+	display:block;
+	clear:both;
+	}
+
+
+
+
+
+
+/************************************
+	Inner Blog page css start
+****************************************/
+.innerBlog{}
+.innerBlog .blogThumb{
+	display: block;
+    float: none;
+    margin: 0 auto;
+    max-width: 100%;
+    padding: 0 0 20px;
+	}
+.innerBlog .blogThumb img{
+	float:none;
+	}
+.innerBlog .blogAuthor {
+    float: left;
+	}
+.innerBlog .blog_details span:last-child {
+    float: right;
+	}
+.innerBlog .blog_details:after{
+	display:block;
+	content:'';
+	clear:both;
+	}
+
+
+
+
+
+
+/************************************
+	Testimonials page css start
+****************************************/
+.testimonialPg{}
+.commino_testimonial{}
+.commino_testimonial li{
+	background: rgba(0, 0, 0, 0) url("../images/separator.jpg") no-repeat scroll center bottom;
+    margin: 0 0 50px;
+    padding: 0 0 40px;
+    text-align: center;
+	}
+.commino_testimonial li p {
+    color: #3c3c3c;
+    font-size: 17px;
+    line-height: 31px;
+    padding: 0 0 23px;
+	}
+.commino_testimonial li h5 {
+	color: #ff7443;
+    font-family: Varela Round;
+    font-size: 19px;
+    font-weight: 700;
+    padding: 0 0 4px;
+	}
+.commino_testimonial li h6{
+	color: #5b5b5b;
+    font-size: 14px;
+    font-weight: 400;
+    padding: 0;
+    text-transform: uppercase;
+	}
+.commino_testimonial li:last-child{
+	background: none;
+	}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

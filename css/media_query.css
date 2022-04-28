@@ -1,0 +1,1924 @@
+@media only screen and (min-width:1051px){
+
+}
+
+
+@media only screen and (min-width:960px) and (max-width:1149px){
+.wrapper{
+	width: auto;
+	padding:0 10px; 
+	}
+.captionHolder {
+    top: 4%;
+	}
+.caption h1 {
+    font-size: 42px;
+    padding: 0 0 2px;
+	}
+.caption p {
+    /*font-size: 24px;*/
+	}
+.caption {
+    margin: 136px 80px 0;
+    width: 394px;
+	}	
+.content h3 {
+    font-size: 34px;
+	}
+.how_do_we_do_sec li {
+    /*width: 31%;*/
+	}
+/*.how_do_we_do_sec li:nth-child(4n) {
+   margin-right:3%;
+	}
+.how_do_we_do_sec li:nth-child(3n) {
+   margin-right:0;
+	}*/
+.how_do_we_do_sec li p, .how_do_we_do_sec li a{
+    /*width: 65%;
+	font-size: 19px;*/
+	}
+.how_do_icon {
+    /*margin: 0 10px 0 0;*/
+	}
+.performance_sec img {
+    height: auto;
+    margin: 0;
+    width: 57%;
+	}	
+.per_box {
+    padding-right: 20px;
+	}
+.case_Study_sec li {
+    width: 454px;
+	}
+.caseStudy_dep {
+    padding: 13px 18px;
+	}
+.caseStudy_dep h4 {
+    font-size: 18px;
+    padding: 0 0 6px;
+	}
+.caseStudy_dep p {
+    font-size: 14px;
+    line-height: 22px;
+	}			
+.testimonial_box {
+    padding: 0 20px;
+	}
+.testi_left {
+    width: 43%;
+	}
+.logo_tagline {
+    font-size: 17px;
+    line-height: 26px;
+	}
+.ftSocial li {
+    margin: 0 3px 0 0;
+	}
+.ft_bar {
+    padding: 12px 0;
+	}
+	
+	
+	
+	
+	
+	
+	
+	
+
+	
+}
+@media only screen and (min-width:769px) and (max-width:959px){
+.wrapper{
+	width: auto;
+	padding:0 10px; 
+	}
+.captionHolder {
+    top: 4%;
+	}
+.logo {
+    float: left;
+    width: 110px;
+	}
+#header {
+    margin-top: 15px !important;
+	}
+.caption h1 {
+    font-size: 36px;
+    padding: 0 0 2px;
+	}
+.caption p {
+    padding: 0 0 16px;
+	}
+.caption {
+    margin: 86px 67px 0;
+    width: 304px;
+	}		
+.content h3 {
+    font-size: 30px;
+	}
+.how_do_we_do_sec li {
+    padding: 0 20px;
+	}
+/*.how_do_we_do_sec li:nth-child(4n) {
+   margin-right:3%;
+	}
+.how_do_we_do_sec li:nth-child(3n) {
+   margin-right:0;
+	}*/
+.how_do_we_do_sec li p, .how_do_we_do_sec li a{
+    /*width: 65%;
+	font-size: 18px;*/
+	}
+.how_do_icon {
+    display: table;
+    height: 112px;
+    margin: 0 auto 17px;
+	}
+.how_do_we_do_sec li h4 {
+    font-size: 21px;
+	}
+.how_do_icon img {
+    width: 92px;
+	}	
+.performance_sec img {
+    height: auto;
+    margin: 0;
+    padding-top: 16px;
+    width: 57%;
+	}	
+.per_box {
+    padding: 0;
+    width: 40%;
+	}	
+.testimonial_box {
+    padding: 0 20px;
+	width: 48%;
+	}
+.testi_left {
+    width: 45%;
+	}
+.logo_tagline {
+    font-size: 17px;
+    line-height: 26px;
+	}
+.ftSocial li {
+    margin: 0 3px 0 0;
+	}
+.ft_bar {
+    padding: 12px 0;
+	}
+#header {
+    width: 44px !important;
+	}	
+.menuBar {
+    padding: 10px 0;
+	}
+.mean-nav {
+    box-shadow: 2px 2px 3px rgba(0, 0, 0, 0.3);
+    position: absolute;
+    right: 0;
+    top: 16px;
+    width: 200px !important;
+    z-index: 999;
+	}
+.performance_sec {
+    padding: 30px 0 0;
+	}
+.performance_sec .per_box{
+    margin-bottom: 0;
+    padding-top: 47px;
+	}	
+.testimoinial_sec {
+    background-size: 188px auto;
+	}	
+.testimonial_box::after {
+    background-size: 80px auto;
+    left: -44px;
+    top: -40px;
+    width: 80px;
+	}	
+.campaigns_sec p {
+    font-size: 17px;
+    line-height: 27px;
+	}	
+.campaigns_lists li {
+    font-size: 17px;
+    margin: 0 0 22px;
+    padding: 3px 0 2px 39px;
+	}	
+.campaigns_form input[type="text"] {
+    font-size: 17px;
+    line-height: 42px;
+	}	
+.ftLogoBox {
+    width: 24%;
+	}	
+.quick_Links {
+    padding-left: 5%;
+    width: 26%;
+	}	
+.ftCntBox {
+    /*width: 25%;*/
+	}	
+.ft_link_box {
+    padding: 45px 0;
+	}	
+.ft_links_sec li h4 {
+    font-size: 22px;
+	}
+	
+	
+	
+	
+	
+	
+/***********************************
+		SEO page css start
+*************************************/	
+.innerPgBn .caption {
+    margin: 24px 0 0;
+	}	
+.innerPgBn .caption h1 {
+    font-size: 29px;
+    padding-bottom: 7px;
+    text-align: left;
+	}
+.innerPgBn .caption p {
+    font-size: 18px;
+    padding-bottom: 11px;
+	}
+.seo_sec img {
+    height: auto;
+    margin: 0 40px 10px 0;
+    max-width: 250px;
+	}
+.steps li {
+    float: none;
+    margin: 0 0 30px;
+    width: auto;
+	}
+.stepBox h4 {
+    padding: 0 0 14px;
+	}
+
+
+
+
+
+
+/***********************************
+		Re-Targetting page css start
+*************************************/	
+.advantg li {
+    font-size: 19px;
+    margin: 0 5% 17px 0;
+    padding-top: 9px;
+	}
+.btn {
+    font-size: 16px;
+	}
+
+
+
+
+
+
+
+/***********************************
+	PPC page css start
+*************************************/	
+.PPC_lists li {
+    margin: 0 5.2% 40px 0;
+    min-height: 360px;
+    width: 47%;
+	}
+.PPC_lists li:nth-child(3n) {
+    margin-right: 5.2%;
+	}
+.PPC_lists li:nth-child(2n){
+    margin-right: 0;
+	}
+
+
+
+
+
+
+/***********************************
+	Targetting page css start
+*************************************/	
+.targetting_process .steps li {
+    margin-bottom: 60px;
+    width: auto;
+	}
+
+
+
+
+
+
+
+
+
+}
+@media only screen and (min-width:641px) and (max-width:768px){
+.wrapper{
+	width: auto;
+	padding:0 10px; 
+	}
+.captionHolder {
+    top: 4%;
+	}
+.logo {
+    float: left;
+    width: 110px;
+	}
+#header {
+    margin-top: 15px !important;
+	}	
+.caption h1 {
+    font-size: 31px;
+    padding: 0 0 15px;
+	}
+.caption h1 span {
+    font-size: 17px;
+    padding: 1px 0 0;
+	}	
+.caption {
+    margin: 100px 41px 0;
+    width: 256px;
+	}
+.caption p {
+    display: none;
+	}	
+.content h3 {
+    font-size: 25px;
+	}
+.about_sec {
+    padding: 30px 0;
+	}	
+.how_do_we_do_sec li {
+    display: block;
+    float: none;
+    margin: 0 0 30px;
+    padding: 0;
+    width: auto;
+	}
+.how_do_we_do_sec li:nth-child(2n) {
+  /* margin-right:0;*/
+	}
+.how_do_we_do_sec li p, .how_do_we_do_sec li a{
+    /*width: 65%;
+	font-size: 18px;*/
+	}
+.how_do_we_do_sec {
+    padding: 30px 0;
+	}	
+.how_do_icon {
+    float: left;
+    margin: 0 30px 0 0;
+    width: 100px;
+	}
+.how_do_icon img {
+    height: auto;
+    width: 100%;
+	}	
+.how_do_we_do_sec li h4{
+    display: table;
+    text-align: left;
+	font-size: 19px;
+    padding: 0 0 7px;
+	}
+.how_do_we_do_sec li p{
+	display: table;
+    text-align: left;
+	}		
+.performance_sec img {
+    height: auto;
+    margin: 0;
+    padding-top: 16px;
+    width: 57%;
+	}	
+.per_box {
+    padding: 0;
+    width: 40%;
+	}	
+.testimonial_box {
+    padding: 0 20px;
+	width: 48%;
+	}
+.testi_left {
+    width: 45%;
+	}
+.logo_tagline {
+    font-size: 17px;
+    line-height: 26px;
+	}
+.ftSocial li {
+    float: left !important;
+    margin: 0 3px 0 0 !important;
+	}
+.ft_bar {
+    padding: 12px 0;
+	}
+#header {
+    width: 44px !important;
+	}	
+.menuBar {
+    padding: 10px 0;
+	}
+.mean-nav {
+    box-shadow: 2px 2px 3px rgba(0, 0, 0, 0.3);
+    position: absolute;
+    right: 0;
+    top: 16px;
+    width: 200px !important;
+    z-index: 999;
+	}
+.performance_sec {
+    padding: 30px 0 0;
+	}
+.performance_sec .per_box{
+    margin-bottom: 0;
+    padding-top: 36px;
+    width: auto;
+	}	
+.testimoinial_sec {
+    background-size: 188px auto;
+	}	
+.testimonial_box::after {
+    background-size: 80px auto;
+    left: -44px;
+    top: -40px;
+    width: 80px;
+	}	
+.campaigns_sec p {
+    font-size: 17px;
+    line-height: 27px;
+	}	
+.campaigns_lists li {
+    font-size: 17px;
+    font-weight: 500;
+    margin: 0 0 22px;
+    padding: 3px 0 2px 39px;
+	}	
+.campaigns_form input[type="text"] {
+    font-size: 17px;
+    line-height: 42px;
+	}	
+.ftLogoBox {
+    width: 24%;
+	}	
+.quick_Links {
+    padding-left: 0%;
+    width: 26%;
+	}	
+.ftCntBox {
+    /*width: 25%;*/
+	}	
+.ft_link_box {
+    padding: 15px 0;
+	}	
+.ft_links_sec li h4 {
+    font-size: 22px;
+	}
+.btn::after {
+    height: 11px;
+    left: 8px;
+    top: 7px;
+    width: 11px;
+	}
+.btn {
+    font-size: 14px;
+    line-height: 34px;
+    padding: 0 24px;
+	}
+.flex-direction-nav a {
+    background-size: 40px auto;
+    height: 40px !important;
+    margin: -20px 0 0 !important;
+    width: 40px !important;
+	}
+.campaigns_form li:last-child::after {
+    height: 11px;
+    left: 8px;
+    top: 7px;
+    width: 11px;
+	}
+.ft_links_sec li {
+    display: block;
+    float: none;
+    margin: 0 0 40px;
+    width: auto;
+	}
+.ftNewsLttrBox {
+    float: none !important;
+    margin-bottom: 0 !important;
+	}
+.ftNav li {
+    display: inline-block;
+    margin-bottom: 0;
+    padding-right: 3%;
+    width: 32%;
+	}
+.ftNewsLttrBox li {
+    margin-bottom: 12px;
+	}
+.ftSocial::after {
+    clear: both;
+    content: "";
+    display: block;
+	}
+.ftCntBox span {
+    font-size: 16px;
+	}
+.campaigns_form .btnCnt::after {
+    height: 11px;
+    left: 8px;
+    top: 7px;
+    width: 11px;
+	}
+
+
+
+
+/***********************************
+		SEO page css start
+*************************************/	
+.innerPgBn .caption {
+    margin: 24px 0 0;
+	}	
+.innerPgBn .caption h1 {
+    font-size: 22px;
+    padding-bottom: 2px;
+    text-align: left;
+	}
+.innerPgBn .caption p {
+    font-size: 17px;
+    padding-bottom: 11px;
+	}
+.seo_sec img {
+    height: auto;
+    margin: 0 40px 10px 0;
+    max-width: 250px;
+	}
+.steps li {
+    float: none;
+    margin: 0 0 30px;
+    width: auto;
+	}
+.stepBox h4 {
+    padding: 0 0 14px;
+	}
+.seo_combine li {
+    background: rgba(0, 0, 0, 0) none repeat scroll 0 0;
+    display: block;
+    float: none;
+    margin: 0 0 40px;
+    padding-right: 0;
+    width: auto;
+	}
+.seo_combine li h4 {
+    padding: 11px 0 7px;
+	}
+
+
+
+
+
+
+/***********************************
+		Re-Targetting page css start
+*************************************/	
+.advantg li {
+    font-size: 19px;
+    margin: 0 5% 17px 0;
+    padding-top: 9px;
+	}
+.btn {
+    font-size: 14px;
+	}
+
+
+
+
+
+
+/***********************************
+	PPC page css start
+*************************************/	
+.PPC_lists li {
+    margin: 0 5.2% 40px 0;
+    min-height: 360px;
+    width: 47%;
+	}
+.PPC_lists li:nth-child(3n) {
+    margin-right: 5.2%;
+	}
+.PPC_lists li:nth-child(2n){
+    margin-right: 0;
+	}
+
+
+
+
+
+/***********************************
+	Targetting page css start
+*************************************/	
+.targetting_process .steps li {
+    margin-bottom: 60px;
+    width: auto;
+	}
+
+
+
+
+
+
+
+	
+}
+@media only screen and (min-width:481px) and (max-width:640px){
+.wrapper{
+	width: auto;
+	padding:0 10px; 
+	}
+.captionHolder {
+    top: 4%;
+	}
+.logo {
+    float: left;
+    width: 110px;
+	}
+#header {
+    margin-top: 15px !important;
+	}
+.caption {
+    margin: 66px 41px 0 0;
+    width: 194px;
+	}			
+.caption h1 {
+    font-size: 24px;
+    padding: 0 0 15px;
+	}
+.caption h1 span {
+    font-size: 13px;
+    padding: 1px 0 0;
+	}	
+.caption p {
+    display:none;
+	}
+.content h3 {
+    background-position: center bottom;
+    font-size: 25px;
+    text-align: center;
+	}
+.how_do_we_do_sec {
+    padding: 30px 0;
+	}
+.how_do_icon{
+	height:inherit;
+	}		
+.how_do_icon img {
+    height: auto;
+    width: 90px;
+	}	
+.how_do_we_do_sec li {
+    display: block;
+    float: none;
+    padding: 0 0 30px;
+    text-align: center;
+    width: auto;
+	}
+.how_do_we_do_sec li:nth-child(2n) {
+    display: block;
+    font-size: 18px;
+    text-align: center;
+    width: 100%;
+	}
+.how_do_we_do_sec li p, .how_do_we_do_sec li a{
+    display: block;
+    text-align: center;
+	}
+.how_do_icon {
+    float: none;
+    margin: 0 auto 10px;
+	}
+.performance_sec img {
+    float: none;
+    height: auto;
+    margin: 0;
+    padding-top: 16px;
+    vertical-align: bottom;
+    max-width: 100%;
+	}
+.how_do_we_do_sec li h4 {
+    font-size: 19px;
+    padding: 0 0 7px;
+	}		
+.per_box {
+    padding: 0;
+    width: 40%;
+	}	
+.testimonial_box {
+    float: none;
+    margin-top: 50px;
+    padding: 0 20px;
+    width: auto;
+	}
+.testimonial_box::after{
+	display:none;
+	}	
+.testi_left {
+    float: none;
+    text-align: center;
+    width: auto;
+	}
+.logo_tagline {
+    font-size: 17px;
+    line-height: 26px;
+	}
+.ftSocial li {
+    float: left !important;
+    margin: 0 3px 0 0 !important;
+	}
+.ft_bar {
+    padding: 12px 0;
+	}
+#header {
+    width: 44px !important;
+	}	
+.menuBar {
+    padding: 10px 0;
+	}
+.mean-nav {
+    box-shadow: 2px 2px 3px rgba(0, 0, 0, 0.3);
+    position: absolute;
+    right: 0;
+    top: 16px;
+    width: 200px !important;
+    z-index: 999;
+	}
+.performance_sec {
+    padding: 30px 0 0;
+	}
+.performance_sec .per_box{
+    float: none;
+    margin-bottom: 22px;
+    width: 100%;
+	}	
+.testimoinial_sec {
+    background-size: 188px auto;
+    padding: 30px 0;
+	}	
+.testimonial_box::after {
+    background-size: 80px auto;
+    left: -44px;
+    top: -40px;
+    width: 80px;
+	}	
+.campaigns_sec p {
+    font-size: 17px;
+    line-height: 27px;
+	}	
+.campaigns_lists li {
+    font-size: 17px;
+    font-weight: 500;
+    margin: 0 0 22px;
+    padding: 3px 0 2px 39px;
+	}	
+.campaigns_form input[type="text"] {
+    line-height: 42px;
+	}	
+.ftLogoBox {
+    width: 24%;
+	}	
+.quick_Links {
+    padding-left: 0%;
+    width: 26%;
+	}	
+.ftCntBox {
+    /*width: 25%;*/
+	}	
+.ft_link_box {
+    padding: 45px 0;
+	}	
+.ft_links_sec li h4 {
+    font-size: 22px;
+	}
+.btn::after {
+    height: 11px;
+    left: 8px;
+    top: 7px;
+    width: 11px;
+	}
+.btn {
+    line-height: 34px;
+    padding: 0 24px;
+	}
+.flex-direction-nav a {
+    background-size: 40px auto;
+    height: 40px !important;
+    margin: -20px 0 0 !important;
+    width: 40px !important;
+	}
+.campaigns_form li:last-child::after {
+    height: 11px;
+    left: 8px;
+    top: 7px;
+    width: 11px;
+	}
+.ft_links_sec li {
+    display: block;
+    float: none;
+    margin: 0 0 40px;
+    width: auto;
+	}
+.ftNewsLttrBox {
+    float: none !important;
+    margin-bottom: 0 !important;
+	}
+.ftNav li {
+    display: inline-block;
+    margin-bottom: 0;
+    padding-right: 3%;
+    width: 32%;
+	}
+.ftNewsLttrBox li {
+    margin-bottom: 12px;
+	}
+.ftSocial::after {
+    clear: both;
+    content: "";
+    display: block;
+	}
+.topMsg {
+    display: block;
+    float: none;
+    padding: 0;
+    text-align: center;
+	line-height: 32px;
+	}
+.top_linksBox {
+    /*display: table;
+    float: none;
+    margin: 0 auto;*/
+	}
+.top_socials li, .top_socials li a {
+    height: 33px;
+    width: 33px;
+	}
+.about_sec {
+    padding: 30px 0;
+	}
+.testimoinial_sec .btn {
+    margin: 0 auto;
+	}
+.campaigns_lists {
+    float: none;
+    margin-top: 30px;
+    width: auto;
+	}
+.campaigns_form {
+    float: none;
+    margin-top: 0px;
+    width: auto;
+	}
+.campaigns_form > p {
+    padding-bottom: 0;
+	}
+	
+.case_Study_sec li {
+    width: 450px;
+	}
+.caseStudy_dep {
+    padding: 13px 18px;
+	}
+.caseStudy_dep h4 {
+    font-size: 18px;
+    padding: 0 0 6px;
+	}
+.caseStudy_dep p {
+    font-size: 14px;
+    line-height: 22px;
+	}
+.case_Study_sec {
+    padding: 30px 0;
+	}
+.campaigns_form textarea {
+    height: 70px;
+	}
+.campaigns_sec {
+    padding: 30px 0;
+	}
+.campaigns_form .btnCnt::after {
+    height: 11px;
+    left: 8px;
+    top: 7px;
+    width: 11px;
+	}
+.ftCntBox span {
+    font-size: 14px;
+    margin: 0 0 10px;
+    padding: 0 0 1px 24px;
+	}
+.ft_mail {
+    background-size: 17px auto;
+	}
+.ft_call {
+    background-size: 10px auto;
+	}
+
+
+
+
+/***********************************
+		SEO page css start
+*************************************/	
+.innerPgBn .caption {
+    margin: 14px 0 0;
+	}	
+.innerPgBn .caption h1 {
+    font-size: 19px;
+    padding-bottom: 2px;
+    text-align: left;
+	}
+.innerPgBn .caption p {
+    font-size: 16px;
+    padding-bottom: 3px;
+	}
+.seo_sec img {
+     height: auto;
+    margin: 0 20px 10px 0;
+    max-width: 160px;
+	}
+.steps li {
+    float: none;
+    margin: 0 0 30px;
+    width: auto;
+	}
+.stepBox h4 {
+    padding: 0 0 14px;
+	}
+.seo_combine li {
+    background: rgba(0, 0, 0, 0) none repeat scroll 0 0;
+    display: block;
+    float: none;
+    margin: 0 0 40px;
+    padding-right: 0;
+    width: auto;
+	}
+.seo_combine li h4 {
+    padding: 11px 0 7px;
+	}
+.seo_dep {
+    padding: 0;
+	}
+.seoRanking .btn {
+    margin: 0 auto;
+	}
+
+
+
+
+
+
+/***********************************
+		Re-Targetting page css start
+*************************************/	
+.advantg li {
+    display: block;
+    float: none;
+    font-size: 19px;
+    margin: 0 0 17px 0;
+    padding-top: 9px;
+    width: auto;
+	}
+.btn {
+    font-size: 14px;
+	}
+.advantg {
+    padding-top: 10px;
+	}
+.retargetting_doingRt .btn {
+    margin-left: auto;
+	}
+	
+	
+	
+	
+	
+	
+/***********************************
+	PPC page css start
+*************************************/	
+.PPC_lists li {
+    display: block;
+    float: none;
+    margin: 0 0 40px 0;
+    min-height: inherit;
+    width: auto;
+	}
+.PPC_lists li:nth-child(3n) {
+    margin-right: 5.2%;
+	}
+.PPC_lists li:nth-child(2n){
+    margin-right: 0;
+	}
+
+
+	
+	
+	
+/***********************************
+	Targetting page css start
+*************************************/	
+.targetting_process .steps li {
+    margin-bottom: 60px;
+    width: auto;
+	}
+
+
+
+
+
+
+
+
+
+}
+@media only screen and (min-width:321px) and (max-width:480px){
+.wrapper{
+	width: auto;
+	padding:0 10px; 
+	}
+.captionHolder {
+    top: 4%;
+	}
+.caption h1 {
+    font-size: 25px;
+    padding: 0 0 0px;
+	}
+.caption p {
+     font-size: 13px;
+    padding-bottom: 7px;
+	}
+.content h3 {
+    background-position: center bottom;
+    font-size: 20px;
+    margin-bottom: 15px;
+    padding-bottom: 12px;
+    text-align: center;
+	}
+.how_do_we_do_sec li {
+    box-sizing: inherit;
+    display: table;
+    float: none;
+    text-align: center;
+    width: 100%;
+	}
+.how_do_we_do_sec li:nth-child(2n) {
+    display: block;
+    font-size: 18px;
+    text-align: center;
+    width: 100%;
+	}
+.how_do_we_do_sec li p, .how_do_we_do_sec li a{
+    display: block;
+    font-size: 18px;
+    text-align: center;
+    width: 100%;
+	}
+.how_do_icon {
+    float: none;
+    margin: 0 auto 10px;
+	}
+.performance_sec img {
+    float: none;
+    height: auto;
+    margin: 0;
+    padding-top: 16px;
+    vertical-align: bottom;
+    max-width: 100%;
+	}	
+.per_box {
+    padding: 0;
+    width: 40%;
+	}	
+.testimonial_box {
+    float: none;
+    margin-top: 50px;
+    padding: 0 0px;
+    width: auto;
+	}
+.testimonial_box::after{
+	display:none;
+	}	
+.testi_left {
+    float: none;
+    text-align: center;
+    width: auto;
+	}
+.logo_tagline {
+    font-size: 17px;
+    line-height: 26px;
+	}
+.ftSocial li {
+    float: left !important;
+    margin: 0 3px 0 0 !important;
+	}
+.ft_bar {
+    padding: 12px 0;
+	}
+#header {
+    margin: 5px 0 0 !important;
+    width: 44px !important;
+	}	
+.menuBar {
+    padding: 10px 0;
+	}
+.mean-nav {
+    box-shadow: 2px 2px 3px rgba(0, 0, 0, 0.3);
+    position: absolute;
+    right: 0;
+    top: 16px;
+    width: 200px !important;
+    z-index: 999;
+	}
+.performance_sec {
+    padding: 30px 0 0;
+	}
+.performance_sec .per_box{
+    float: none;
+    margin-bottom: 22px;
+    width: 100%;
+	}	
+.testimoinial_sec {
+    background-size: 188px auto;
+	}	
+.testimonial_box::after {
+    background-size: 80px auto;
+    left: -44px;
+    top: -40px;
+    width: 80px;
+	}	
+.campaigns_sec p {
+    font-size: 16px;
+    line-height: 23px;
+	}	
+.campaigns_lists li {
+    font-size: 17px;
+    font-weight: 500;
+    margin: 0 0 22px;
+    padding: 3px 0 2px 39px;
+	}	
+.campaigns_form input[type="text"] {
+    font-size: 17px;
+    line-height: 42px;
+	}	
+.ftLogoBox {
+    width: 24%;
+	}	
+.quick_Links {
+    padding-left: 0%;
+    width: 26%;
+	}	
+.ftCntBox {
+    width: 25%;
+	}	
+.ft_link_box {
+    padding: 45px 0;
+	}	
+.ft_links_sec li h4 {
+    font-size: 22px;
+	}
+.btn::after {
+    height: 11px;
+    left: 8px;
+    top: 7px;
+    width: 11px;
+	}
+.btn {
+    line-height: 34px;
+    padding: 0 24px;
+	}
+.flex-direction-nav a {
+    background-size: 40px auto;
+    height: 40px !important;
+    margin: -20px 0 0 !important;
+    width: 40px !important;
+	}
+.campaigns_form li:last-child::after {
+    height: 11px;
+    left: 8px;
+    top: 7px;
+    width: 11px;
+	}
+.ft_links_sec li {
+    display: block;
+    float: none;
+    margin: 0 0 40px;
+    width: auto;
+	}
+.ftNewsLttrBox {
+    float: none !important;
+    margin-bottom: 0 !important;
+	}
+.ftNav li {
+    display: block;
+    margin-bottom: 0;
+    padding-right: 0;
+    width: auto;
+	}
+.ftNewsLttrBox li {
+    margin-bottom: 12px;
+	}
+.ftSocial::after {
+    clear: both;
+    content: "";
+    display: block;
+	}
+.topMsg {
+    display: block;
+    float: none;
+    line-height: 17px;
+    padding: 6px 0;
+    text-align: center;
+	}
+.top_linksBox {
+    display: none;
+	}
+.top_socials li, .top_socials li a {
+    height: 33px;
+    width: 33px;
+	}
+.about_sec {
+    padding: 30px 0;
+	}
+.testimoinial_sec .btn {
+    margin: 0 auto;
+	}
+.campaigns_lists {
+    float: none;
+    margin-top: 30px;
+    width: auto;
+	}
+.campaigns_form {
+    float: none;
+    margin-top: 70px;
+    width: auto;
+	}
+.campaigns_form > p {
+    padding-bottom: 0;
+	}
+.logo {
+    width: 150px;
+	}
+.caption {
+    width: 270px;
+	}
+.ft_bar span {
+    color: #999999;
+    font-size: 14px;
+	}
+
+
+
+
+
+
+		
+
+/***********************************
+		SEO page css start
+*************************************/	
+.innerPgBn .caption {
+    float: none;
+    margin: 0px 0 20px;
+    text-align: center;
+    width: auto;
+	}	
+.innerPgBn .caption h1 {
+    font-size: 19px;
+    padding-bottom: 3px;
+    padding-top: 21px;
+    text-align: center;
+	}
+.innerPgBn .caption p {
+    font-size: 16px;
+    padding-bottom: 3px;
+	text-align: center;
+	}
+.seo_sec img {
+    height: auto;
+    margin: 0 20px 10px 0;
+    max-width: 140px;
+	}
+.innerPgBn .caption .btn {
+    margin: 10px auto;
+	}
+.steps li {
+    float: none;
+    margin: 0 0 30px;
+    width: auto;
+	}
+.stepBox h4 {
+    padding: 0 0 14px;
+	}
+.seo_combine li {
+    background: rgba(0, 0, 0, 0) none repeat scroll 0 0;
+    display: block;
+    float: none;
+    margin: 0 0 40px;
+    padding-right: 0;
+    width: auto;
+	}
+.seo_combine li h4 {
+    padding: 11px 0 7px;
+	}
+.seo_dep {
+    padding: 0;
+	}
+.seoRanking .btn {
+    margin: 0 auto;
+	}
+.innerPgBn img {
+    display: block;
+    float: none;
+    height: auto;
+    margin: 0 auto;
+    max-width: 89%;
+    padding: 5px 0 0;
+	}
+.pageTitle {
+    display: block;
+    float: none;
+    font-size: 18px;
+    padding: 10px 0;
+    text-align: center;
+	}
+.breadcum {
+    display: block;
+    float: none;
+    font-size: 12px;
+    padding: 0 0 10px;
+    text-align: center;
+	}
+
+
+
+
+
+
+/***********************************
+		Re-Targetting page css start
+*************************************/	
+.advantg li {
+    display: block;
+    float: none;
+    font-size: 17px;
+    margin: 0 0 15px;
+    padding-bottom: 5px;
+    padding-top: 7px;
+    width: auto;
+	}
+.btn {
+    font-size: 14px;
+	}
+.advantg {
+    padding-top: 10px;
+	}
+.retargetting_doingRt .btn {
+    margin-left: auto;
+	}
+
+
+
+
+
+
+	
+/***********************************
+	PPC page css start
+*************************************/	
+.PPC_lists li {
+    display: block;
+    float: none;
+    margin: 0 0 40px 0;
+    min-height: inherit;
+    width: auto;
+	}
+.PPC_lists li:nth-child(3n) {
+    margin-right: 5.2%;
+	}
+.PPC_lists li:nth-child(2n){
+    margin-right: 0;
+	}
+.btnsBox .btn {
+    display: table;
+    margin: 15px auto;
+	}
+
+		
+		
+		
+		
+		
+		
+		
+		
+/***********************************
+	Targetting page css start
+*************************************/	
+.targetting_process .steps li {
+    margin-bottom: 60px;
+    width: auto;
+	}
+.targetting_process .step_thumb {
+    display: table;
+    float: none;
+    margin: 0 auto;
+	}
+.targetting_process .stepBox {
+    display: block;
+    text-align: center;
+	}		
+.targetting_process .steps li h4 {
+    padding-top: 10px;
+    text-align: center;
+	}
+.targetting_process .steps li p {
+    text-align: center;
+	}		
+.targetting_process h5 {
+    font-size: 19px;
+	}
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+}
+@media only screen and (max-width:320px){
+.wrapper{
+	width: auto;
+	padding:0 10px; 
+	}
+.captionHolder {
+    top: 4%;
+	}
+.caption h1 {
+    display:none;
+	}
+.caption p {
+    display:none;
+	}
+.content h3 {
+    background-position: center bottom;
+    font-size: 17px;
+    margin-bottom: 15px;
+    padding-bottom: 12px;
+    text-align: center;
+	}
+.how_do_we_do_sec li {
+    box-sizing: inherit;
+    display: table;
+    float: none;
+    text-align: center;
+    width: 100%;
+	}
+.how_do_we_do_sec li:nth-child(2n) {
+    display: block;
+    font-size: 18px;
+    text-align: center;
+    width: 100%;
+	}
+.how_do_we_do_sec li p, .how_do_we_do_sec li a{
+    display: block;
+    font-size: 18px;
+    text-align: center;
+    width: 100%;
+	}
+.how_do_icon {
+    float: none;
+    margin: 0 auto 10px;
+	}
+.performance_sec img {
+    float: none;
+    height: auto;
+    margin: 0;
+    padding-top: 16px;
+    vertical-align: bottom;
+    max-width: 100%;
+	}	
+.per_box {
+    padding: 0;
+    width: 40%;
+	}	
+.testimonial_box {
+    background-position: 87% 94%;
+    background-size: 50px auto;
+    float: none;
+    margin-top: 50px;
+    padding: 0;
+    width: auto;
+	}
+.testimonial_box::after{
+	display:none;
+	}	
+.testi_left {
+    float: none;
+    text-align: center;
+    width: auto;
+	}
+.logo_tagline {
+    font-size: 17px;
+    line-height: 26px;
+	}
+.ftSocial li {
+    float: left !important;
+    margin: 0 3px 0 0 !important;
+	}
+.ft_bar {
+    padding: 12px 0;
+	}
+#header {
+    margin: 5px 0 0 !important;
+    width: 44px !important;
+	}	
+.menuBar {
+    padding: 10px 0;
+	}
+.mean-nav {
+    box-shadow: 2px 2px 3px rgba(0, 0, 0, 0.3);
+    position: absolute;
+    right: 0;
+    top: 16px;
+    width: 200px !important;
+    z-index: 999;
+	}
+.performance_sec {
+    padding: 30px 0 0;
+	}
+.performance_sec .per_box{
+    float: none;
+    margin-bottom: 22px;
+    width: 100%;
+	}	
+.testimoinial_sec {
+    background-size: 188px auto;
+	}	
+.testimonial_box::after {
+    background-size: 80px auto;
+    left: -44px;
+    top: -40px;
+    width: 80px;
+	}	
+.campaigns_sec p {
+    font-size: 16px;
+    line-height: 23px;
+	}	
+.campaigns_lists li {
+    font-size: 17px;
+    font-weight: 500;
+    margin: 0 0 22px;
+    padding: 3px 0 2px 39px;
+	}	
+.campaigns_form input[type="text"] {
+    font-size: 17px;
+    line-height: 42px;
+	}	
+.ftLogoBox {
+    width: 24%;
+	}	
+.quick_Links {
+    padding-left: 0%;
+    width: 26%;
+	}	
+.ftCntBox {
+    width: 25%;
+	}	
+.ft_link_box {
+    padding: 45px 0;
+	}	
+.ft_links_sec li h4 {
+    font-size: 22px;
+	}
+.btn::after {
+    height: 11px;
+    left: 8px;
+    top: 7px;
+    width: 11px;
+	}
+.btn {
+    font-size: 14px;
+    line-height: 34px;
+    padding: 0 24px;
+	}
+.flex-direction-nav a {
+    background-size: 30px auto;
+    height: 30px !important;
+    margin: -15px 0 0 !important;
+    width: 30px !important;
+	}
+.campaigns_form li:last-child::after {
+    height: 11px;
+    left: 8px;
+    top: 7px;
+    width: 11px;
+	}
+.ft_links_sec li {
+    display: block;
+    float: none;
+    margin: 0 0 40px;
+    width: auto;
+	}
+.ftNewsLttrBox {
+    float: none !important;
+    margin-bottom: 0 !important;
+	}
+.ftNav li {
+    display: block;
+    margin-bottom: 0;
+    padding-right: 0;
+    width: auto;
+	}
+.ftNewsLttrBox li {
+    margin-bottom: 12px;
+	}
+.ftSocial::after {
+    clear: both;
+    content: "";
+    display: block;
+	}
+.topMsg {
+    display: block;
+    float: none;
+    line-height: 17px;
+    padding: 6px 0;
+    text-align: center;
+	}
+.top_linksBox {
+    display: none;
+	}
+.top_socials li, .top_socials li a {
+    height: 33px;
+    width: 33px;
+	}
+.about_sec {
+    padding: 30px 0;
+	}
+.testimoinial_sec .btn {
+    margin: 0 auto;
+	}
+.campaigns_lists {
+    float: none;
+    margin-top: 30px;
+    width: auto;
+	}
+.campaigns_form {
+    float: none;
+    margin-top: 70px;
+    width: auto;
+	}
+.campaigns_form > p {
+    padding-bottom: 0;
+	}
+.logo {
+    width: 150px;
+	}
+.caption {
+    width: auto;
+	margin: 9px auto;
+	}
+.ft_bar span {
+    color: #999999;
+    font-size: 14px;
+	}
+
+.flex-direction-nav .flex-prev {
+    bottom: 5px;
+    left: 30% !important;
+    top: auto !important;
+	}
+.flex-direction-nav .flex-next {
+    bottom: 5px;
+    right: 30% !important;
+    top: auto !important;
+	}
+
+
+
+
+
+
+
+/***********************************
+		SEO page css start
+*************************************/	
+.innerPgBn .caption {
+    float: none;
+    margin: 0 0 20px;
+    padding-top: 20px;
+    text-align: center;
+    width: auto;
+	}	
+.innerPgBn .caption h1 {
+    font-size: 19px;
+    padding-bottom: 3px;
+    padding-top: 21px;
+    text-align: center;
+	}
+.innerPgBn .caption p {
+    font-size: 16px;
+    padding-bottom: 3px;
+	text-align: center;
+	}
+.seo_sec img {
+    display: block;
+    float: none;
+    height: auto;
+    margin: 0 auto 10px;
+    max-width: 180px;
+    width: 100%;
+	}
+.innerPgBn .caption .btn {
+    margin: 0px auto;
+	}
+.steps li {
+    float: none;
+    margin: 0 0 30px;
+    width: auto;
+	}
+.stepBox h4 {
+    padding: 0 0 14px;
+	}
+.seo_combine li {
+    background: rgba(0, 0, 0, 0) none repeat scroll 0 0;
+    display: block;
+    float: none;
+    margin: 0 0 40px;
+    padding-right: 0;
+    width: auto;
+	}
+.seo_combine li h4 {
+    padding: 11px 0 7px;
+	}
+.seo_dep {
+    padding: 0;
+	}
+.seoRanking .btn {
+    margin: 0 auto;
+	}
+.innerPgBn img {
+    display: block;
+    float: none;
+    height: auto;
+    margin: 0 auto;
+    max-width: 89%;
+    padding: 5px 0 0;
+	}
+.pageTitle {
+    display: block;
+    float: none;
+    font-size: 18px;
+    padding: 10px 0;
+    text-align: center;
+	}
+.breadcum {
+    display: block;
+    float: none;
+    font-size: 12px;
+    padding: 0 0 10px;
+    text-align: center;
+	}	
+.step_thumb {
+    float: none;
+    margin: 0 auto 10px;
+    text-align: center;
+	}
+.stepBox {
+    display: block;
+    text-align: center;
+	}
+
+
+
+
+
+
+
+
+/***********************************
+		Re-Targetting page css start
+*************************************/	
+.advantg li {
+    display: block;
+    float: none;
+    font-size: 17px;
+    margin: 0 0 15px;
+    padding-bottom: 5px;
+    padding-top: 7px;
+    width: auto;
+	}
+.btn {
+    font-size: 14px;
+	}
+.advantg {
+    padding-top: 10px;
+	}
+.retargetting_doingRt .btn {
+    margin-left: auto;
+	}
+
+
+
+
+
+
+
+/***********************************
+	PPC page css start
+*************************************/	
+.PPC_lists li {
+    display: block;
+    float: none;
+    margin: 0 0 40px 0;
+    min-height: inherit;
+    width: auto;
+	}
+.PPC_lists li:nth-child(3n) {
+    margin-right: 5.2%;
+	}
+.PPC_lists li:nth-child(2n){
+    margin-right: 0;
+	}
+.btnsBox .btn {
+    display: table;
+    margin: 15px auto;
+	}
+.combine_lists li h4 {
+    font-size: 18px;
+    padding: 11px 0 8px;
+	}
+
+	
+	
+	
+	
+/***********************************
+	Targetting page css start
+*************************************/	
+.targetting_process .steps li {
+    margin-bottom: 60px;
+    width: auto;
+	}
+.targetting_process .step_thumb {
+    display: table;
+    float: none;
+    margin: 0 auto;
+	}
+.targetting_process .stepBox {
+    display: block;
+    text-align: center;
+	}		
+.targetting_process .steps li h4 {
+    padding-top: 10px;
+    text-align: center;
+	font-size: 18px;
+	}
+.targetting_process .steps li p {
+    text-align: center;
+	}		
+.targetting_process h5 {
+    font-size: 19px;
+	}
+		
+		
+		
+		
+		
+		
+		
+			
+						
+}
+
+
+
+
